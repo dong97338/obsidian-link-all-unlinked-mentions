@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "link-all-unlinked-mentions",
+	"name": "Link all unlinked mentions",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Link all unlinked mentions with a single click.",
+	"author": "DH Lee",
+	"authorUrl": "https://github.com/dong97338",
 	"isDesktopOnly": false
 }
